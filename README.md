@@ -1,1 +1,1 @@
-# Number-Gussing-game
+# Easy Number Gussing Game 
